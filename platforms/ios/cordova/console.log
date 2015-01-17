@@ -1,0 +1,23 @@
+2014-08-17 01:35:49.893 myApp[3578:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-17 01:35:49.914 myApp[3578:70b] Unlimited access to network resources
+2014-08-17 01:35:50.059 myApp[3578:70b] [CDVTimer][keyboard] 0.060022ms
+2014-08-17 01:35:50.060 myApp[3578:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-17 01:35:50.060 myApp[3578:70b] [CDVTimer][statusbar] 0.386000ms
+2014-08-17 01:35:50.060 myApp[3578:70b] [CDVTimer][TotalPluginStartup] 1.276016ms
+2014-08-17 01:35:50.195 myApp[3578:70b] Resetting plugins due to page load.
+2014-08-17 01:35:50.410 myApp[3578:70b] Finished load of: file:///Users/geoffwoodberry/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/745595B1-FF5A-4703-9129-E275D3AA74DB/myApp.app/www/index.html#/tab/dash
+2014-08-17 01:38:05.979 myApp[3911:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-17 01:38:05.985 myApp[3911:70b] Unlimited access to network resources
+2014-08-17 01:38:06.005 myApp[3911:70b] [CDVTimer][keyboard] 0.056982ms
+2014-08-17 01:38:06.005 myApp[3911:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-17 01:38:06.006 myApp[3911:70b] [CDVTimer][statusbar] 0.369966ms
+2014-08-17 01:38:06.006 myApp[3911:70b] [CDVTimer][TotalPluginStartup] 1.278996ms
+2014-08-17 01:38:06.086 myApp[3911:70b] Resetting plugins due to page load.
+2014-08-17 01:38:06.235 myApp[3911:70b] Finished load of: file:///Users/geoffwoodberry/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/745595B1-FF5A-4703-9129-E275D3AA74DB/myApp.app/www/index.html#/tab/dash
+2015-01-17 16:53:32.394 myApp[35917:456223] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/geoffwoodberry/Library/Developer/CoreSimulator/Devices/DC1F370B-6C62-4D99-986D-CB8F00647C1C/data/Containers/Data/Application/3CCBA7AE-13C5-498A-A6F7-E84E191C076E/Library/Cookies/Cookies.binarycookies
+2015-01-17 16:53:32.554 myApp[35917:456223] Multi-tasking -> Device: YES, App: YES
+2015-01-17 16:53:32.581 myApp[35917:456223] Unlimited access to network resources
+2015-01-17 16:53:33.067 myApp[35917:456223] [CDVTimer][keyboard] 0.068009ms
+2015-01-17 16:53:33.067 myApp[35917:456223] [CDVTimer][TotalPluginStartup] 0.244021ms
+2015-01-17 16:53:33.925 myApp[35917:456223] Resetting plugins due to page load.
+2015-01-17 16:53:34.161 myApp[35917:456223] Finished load of: file:///Users/geoffwoodberry/Library/Developer/CoreSimulator/Devices/DC1F370B-6C62-4D99-986D-CB8F00647C1C/data/Containers/Bundle/Application/4C26001D-FB56-48DA-B0D8-5CCE6B0081A1/myApp.app/www/index.html#/tab/dash
